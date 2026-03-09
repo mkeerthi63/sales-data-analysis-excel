@@ -100,11 +100,11 @@ These slicers allow users to dynamically filter and explore the dashboard.
 * KPI indicators for business performance
 * Clean and easy-to-understand layout
 * 
-## Project Structure
+Project Structure
 sales-data-analysis-excel/
 │
-├── Sales_Performance_Dashboard_in_Excel.xlsx
-├── dashboard_screenshot.png
+├──Sales_Performance_Dashboard_in_Excel.xlsx
+├── dashboard.jpg
 └── README.md
 
 ## Future Improvements
