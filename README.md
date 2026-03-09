@@ -8,6 +8,7 @@ The goal is to transform raw sales data into a **visual and interactive dashboar
 The dashboard allows users to filter and explore the data using **interactive slicers**, making it easier to analyze different regions and product categories.
 
 
+
 ## Dataset Description
 
 The dataset contains sales transaction records with the following fields:
@@ -24,6 +25,7 @@ The dataset contains sales transaction records with the following fields:
 | Profit       | Profit generated from the sale          |
 
 
+
 ## Tools Used
 
 * Microsoft Excel
@@ -32,6 +34,8 @@ The dataset contains sales transaction records with the following fields:
 * Slicers
 * Excel Formulas
 * Data Visualization Techniques
+
+
 
 ## Project Steps
 
@@ -86,6 +90,7 @@ Added **Slicers** for:
 These slicers allow users to dynamically filter and explore the dashboard.
 
 
+
 ## Key Insights
 
 * The **North region generated the highest sales revenue**.
@@ -93,24 +98,37 @@ These slicers allow users to dynamically filter and explore the dashboard.
 * **Laptop and Mobile were among the top-selling products**.
 * Furniture products produced strong profit margins.
 
+
+
 ## Dashboard Features
 
 * Interactive filtering with slicers
 * Visual charts for quick insights
 * KPI indicators for business performance
 * Clean and easy-to-understand layout
-* 
-Project Structure
+
+
+
+## Project Structure
+
+```
 sales-data-analysis-excel/
 │
-├──Sales_Performance_Dashboard_in_Excel.xlsx
+├── Sales_Performance_Dashboard_in_Excel.xlsx
 ├── dashboard.jpg
 └── README.md
+```
+
 
 ## Future Improvements
 
 * Add more sales data for deeper analysis
 * Create advanced dashboards using **Power BI**
 * Automate data updates using **Python**
+
+
+
 ## Author
+
 Keerthi
+
